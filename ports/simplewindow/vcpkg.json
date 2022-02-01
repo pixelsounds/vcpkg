@@ -1,0 +1,7 @@
+{
+  "name": "simplewindow",
+  "version": "0.0.1",
+  "description": "SimpleWindow is a header-only library for quickly/cleanly creating win32 Windows in C++.",
+  "homepage": "https://pixelsounds.github.io/simplewindow",
+  "supports": "windows"
+}
